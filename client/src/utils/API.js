@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api/v1/";
+const API = "https://rablo-task.onrender.com/api/v1/";
 
 export const SIGNUP = API + "auth/signup";
 export const LOGIN = API + "auth/login";
